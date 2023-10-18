@@ -16,7 +16,7 @@ ________________________________________________________________________________
 My Repository
 
 
-[Yandex Practicum Project Repository](Yandex_Practicum)
+[Yandex Practicum Project Repository](https://github.com/DmitryAslanov/Yandex_Practicum)
 
 [Hackathon Repository](Hackaton-s)
 
