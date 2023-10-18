@@ -18,8 +18,8 @@ My Repository
 
 [Yandex Practicum Project Repository](https://github.com/DmitryAslanov/Yandex_Practicum)
 
-[Hackathon Repository](Hackaton-s)
+[Hackathon Repository](https://github.com/DmitryAslanov/Hackaton-s)
 
-[Pet Project Repository](pet-project)
+[Pet Project Repository](https://github.com/DmitryAslanov/pet-project)
 
 
