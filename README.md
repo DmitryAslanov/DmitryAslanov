@@ -3,7 +3,7 @@ Hi my name Dmitry Aslanov
 Winner of the All-Russian hackathon "Digital Breakthrough 2023" - 2nd place
 
 A novice Data Scientist is Passionate about process improvement through automation, testing, and implementation. A dedicated learner of the latest tools and methodologies committed to applying my knowledge and skills 
-
+_______________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 
@@ -11,4 +11,15 @@ Programming skills
 
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, OpenCV
 
-[Обучение в практикуме](Yandex_Practicum)
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________
+My Repository
+
+
+[Yandex Practicum Project Repository](Yandex_Practicum)
+
+[Hackathon Repository](Hackaton-s)
+
+[Pet Project Repository](pet-project)
+
+
