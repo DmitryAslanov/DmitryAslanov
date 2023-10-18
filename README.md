@@ -10,3 +10,5 @@ A novice Data Scientist is Passionate about process improvement through automati
 Programming skills
 
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, OpenCV
+
+[Обучение в практикуме](Yandex_Practicum)
