@@ -20,6 +20,6 @@ My Repository
 
 [Hackathon Repository](https://github.com/DmitryAslanov/Hackaton-s)(Участие в соревнованиях)
 
-[Pet Project Repository](https://github.com/DmitryAslanov/pet-project)(Домашние проекты и просто интересные мне проекты)
+[Pet Project Repository](https://github.com/DmitryAslanov/pet-project)(Домашние и просто интересные мне проекты)
 
 
