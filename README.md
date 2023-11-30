@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 Programming skills
 
-Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, OpenCV
+Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, OpenCV, PyTorch
 
 
 _______________________________________________________________________________________________________________________________________________________________________________________________________________
