@@ -16,10 +16,10 @@ ________________________________________________________________________________
 My Repository
 
 
-[Yandex Practicum Project Repository](https://github.com/DmitryAslanov/Yandex_Practicum)
+[Yandex Practicum Project Repository](https://github.com/DmitryAslanov/Yandex_Practicum)(Учебные проекты)
 
-[Hackathon Repository](https://github.com/DmitryAslanov/Hackaton-s)
+[Hackathon Repository](https://github.com/DmitryAslanov/Hackaton-s)(Участие в соревнованиях)
 
-[Pet Project Repository](https://github.com/DmitryAslanov/pet-project)
+[Pet Project Repository](https://github.com/DmitryAslanov/pet-project)(Домашние проекты и просто интересные мне проекты)
 
 
