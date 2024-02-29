@@ -18,8 +18,9 @@ My Repository
 
 [Yandex Practicum Project Repository](https://github.com/DmitryAslanov/Yandex_Practicum)(Учебные проекты)
 
-[Hackathon Repository](https://github.com/DmitryAslanov/Hackaton-s)(Участие в соревнованиях)
+[Hackathon Repository](https://github.com/DmitryAslanov/Hackaton-s)(Участие в хакатонах)
 
-[Pet Project Repository](https://github.com/DmitryAslanov/pet-project)(Домашние и просто интересные мне проекты)
+[Pet Project Repository](https://github.com/DmitryAslanov/pet-project)(Пет проекты и проекты e-commerce
+)
 
 
